@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6092EFEE-3845-45F9-B308-8F21CD6560A3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F0F4911-B34B-4DA7-B867-5837878FD51E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetAppTests/PlanetViewModelTests/MockRespository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getPlanets(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "5F640B18-5BC5-4617-832B-433D47C93BB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB79DF50-663A-4246-B80F-20650917B9D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetApp/Repository/PlanetsListRepositoryImplementation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "getPlanets(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB79DF50-663A-4246-B80F-20650917B9D8 - e4af274cccbceedc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetApp.PlanetsListRepositoryImplemenation.getPlanets(for: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;PlanetApp.Planet&gt;, PlanetApp.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PlanetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetApp%203/PlanetApp/Repository/PlanetsListRepositoryImplementation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "EB79DF50-663A-4246-B80F-20650917B9D8 - 6361646c91e48d00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in PlanetApp.PlanetsListRepositoryImplemenation.getPlanets(for: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;PlanetApp.Planet&gt;, PlanetApp.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PlanetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetApp%203/PlanetApp/Repository/PlanetsListRepositoryImplementation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F607FDE0-25A3-4B4E-903D-C0F4829D922E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetApp/Repository/PlanetsListRepositoryImplementation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "getPlanets(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F607FDE0-25A3-4B4E-903D-C0F4829D922E - 4f9f793fd57c2900"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in PlanetApp.PlanetsListRepositoryImplemenation.getPlanets(for: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;PlanetApp.Planet&gt;, PlanetApp.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PlanetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetApp%203/PlanetApp/Repository/PlanetsListRepositoryImplementation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "F607FDE0-25A3-4B4E-903D-C0F4829D922E - 729bc77d146e867"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in PlanetApp.PlanetsListRepositoryImplemenation.getPlanets(for: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;PlanetApp.Planet&gt;, PlanetApp.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PlanetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetApp%203/PlanetApp/Repository/PlanetsListRepositoryImplementation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "F607FDE0-25A3-4B4E-903D-C0F4829D922E - 6361646c91e48d46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in PlanetApp.PlanetsListRepositoryImplemenation.getPlanets(for: Foundation.URL, completion: (Swift.Result&lt;Swift.Array&lt;PlanetApp.Planet&gt;, PlanetApp.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PlanetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetApp%203/PlanetApp/Repository/PlanetsListRepositoryImplementation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04566F20-A873-4A55-88B5-1FD6CE6D0BBD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetApp/Model/PlanetObjectEntity+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "insertEPlanetInBackground(planets:moc:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04566F20-A873-4A55-88B5-1FD6CE6D0BBD - ba78cfb706d26de6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in static PlanetApp.PlanetObjectEntity.insertEPlanetInBackground(planets: Swift.Array&lt;PlanetApp.Planet&gt;, moc: __C.NSManagedObjectContext) async throws -&gt; ()"
+                  moduleName = "PlanetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetApp%203/PlanetApp/Model/PlanetObjectEntity+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "434">
+               </Location>
+               <Location
+                  uuid = "04566F20-A873-4A55-88B5-1FD6CE6D0BBD - ba78cfb706d26de6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in static PlanetApp.PlanetObjectEntity.insertEPlanetInBackground(planets: Swift.Array&lt;PlanetApp.Planet&gt;, moc: __C.NSManagedObjectContext) async throws -&gt; ()"
+                  moduleName = "PlanetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetApp%203/PlanetApp/Model/PlanetObjectEntity+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "483">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BA9C972-EE4E-4D44-B2C5-AD2794C955B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetApp/Model/PlanetObjectEntity+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getPlanetsFromOfflineStorage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4BA9C972-EE4E-4D44-B2C5-AD2794C955B9 - 7176d1fa66b85e00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Array&lt;PlanetApp.Planet&gt; in static PlanetApp.PlanetObjectEntity.getPlanetsFromOfflineStorage() async -&gt; Swift.Array&lt;PlanetApp.Planet&gt;"
+                  moduleName = "PlanetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetApp%203/PlanetApp/Model/PlanetObjectEntity+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "4BA9C972-EE4E-4D44-B2C5-AD2794C955B9 - a0d305c3d42f4e4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PlanetApp.PlanetObjectEntity) -&gt; PlanetApp.Planet in closure #1 () -&gt; Swift.Array&lt;PlanetApp.Planet&gt; in static PlanetApp.PlanetObjectEntity.getPlanetsFromOfflineStorage() async -&gt; Swift.Array&lt;PlanetApp.Planet&gt;"
+                  moduleName = "PlanetApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetApp%203/PlanetApp/Model/PlanetObjectEntity+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "62">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
