@@ -34,7 +34,6 @@
 		84C7A4DC29F02AF100FEC99B /* MockNetworkManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C7A4DB29F02AF100FEC99B /* MockNetworkManagerTests.swift */; };
 		84C7A4DF29F05E8800FEC99B /* MockRESTAPIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C7A4DE29F05E8800FEC99B /* MockRESTAPIManager.swift */; };
 		84C7A4E129F05F4A00FEC99B /* PlanetsListRepositoryImplemenationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C7A4E029F05F4A00FEC99B /* PlanetsListRepositoryImplemenationTests.swift */; };
-		84C7A4E429F0897200FEC99B /* PLanetsListResponseDataKeyMisMatch.json in Resources */ = {isa = PBXBuildFile; fileRef = 84C7A4E329F0897200FEC99B /* PLanetsListResponseDataKeyMisMatch.json */; };
 		84C7A4E629F0902D00FEC99B /* PlanetsListResponseData.json in Resources */ = {isa = PBXBuildFile; fileRef = 84C7A4E529F0902D00FEC99B /* PlanetsListResponseData.json */; };
 		84C7A4E929F112A200FEC99B /* PlanetViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C7A4E829F112A200FEC99B /* PlanetViewModelTests.swift */; };
 		84C7A4EF29F13E8C00FEC99B /* MockRespository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C7A4EE29F13E8C00FEC99B /* MockRespository.swift */; };
@@ -88,7 +87,6 @@
 		84C7A4DB29F02AF100FEC99B /* MockNetworkManagerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockNetworkManagerTests.swift; sourceTree = "<group>"; };
 		84C7A4DE29F05E8800FEC99B /* MockRESTAPIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockRESTAPIManager.swift; sourceTree = "<group>"; };
 		84C7A4E029F05F4A00FEC99B /* PlanetsListRepositoryImplemenationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetsListRepositoryImplemenationTests.swift; sourceTree = "<group>"; };
-		84C7A4E329F0897200FEC99B /* PLanetsListResponseDataKeyMisMatch.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PLanetsListResponseDataKeyMisMatch.json; sourceTree = "<group>"; };
 		84C7A4E529F0902D00FEC99B /* PlanetsListResponseData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PlanetsListResponseData.json; sourceTree = "<group>"; };
 		84C7A4E829F112A200FEC99B /* PlanetViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetViewModelTests.swift; sourceTree = "<group>"; };
 		84C7A4EE29F13E8C00FEC99B /* MockRespository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockRespository.swift; sourceTree = "<group>"; };
@@ -255,7 +253,6 @@
 		84C7A4E229F0892600FEC99B /* MockJSON */ = {
 			isa = PBXGroup;
 			children = (
-				84C7A4E329F0897200FEC99B /* PLanetsListResponseDataKeyMisMatch.json */,
 				84C7A4E529F0902D00FEC99B /* PlanetsListResponseData.json */,
 				84C0F8452A0D89ED00AF993D /* PlanetListEmpty.json */,
 			);
@@ -386,7 +383,6 @@
 			files = (
 				84C0F8462A0D89ED00AF993D /* PlanetListEmpty.json in Resources */,
 				84C7A4E629F0902D00FEC99B /* PlanetsListResponseData.json in Resources */,
-				84C7A4E429F0897200FEC99B /* PLanetsListResponseDataKeyMisMatch.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

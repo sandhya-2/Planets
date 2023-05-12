@@ -22,7 +22,6 @@ Units tests for success and failure situations.Mocked responses using MockNetwor
 # Screenshots
 
 
-|List of Planet Screen|DetailScreen|
+|List of Planets|DetailScreen|
 |---|---|
-|<img src="https://user-images.githubusercontent.com/15943310/233363807-fde43c6a-b906-484c-90cc-47b0a6d9adad.png" width="300" height="500"> |<img src="https://user-images.githubusercontent.com/15943310/233363907-d5bb134c-274d-442a-91e5-708889bd6ba0.png" width="300" height="500"> |
-
+|![PlanetScreen](https://github.com/sandhya-2/Planets/assets/15943310/d8435606-c9f0-47bf-89bc-1ba3546f529f) | ![DetailScreen](https://github.com/sandhya-2/Planets/assets/15943310/1ed44a5f-e98d-4582-9684-04a7b006041d) |
